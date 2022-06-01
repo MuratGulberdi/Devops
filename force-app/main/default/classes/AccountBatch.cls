@@ -25,5 +25,8 @@ public class AccountBatch implements Database.Batchable<SObject>, database.state
         system.debug('total updated records = ' + count);
     }
 
+    //commentary
+    //todays class
+
 }
 
